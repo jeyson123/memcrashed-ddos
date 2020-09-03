@@ -2,7 +2,7 @@
 Memcrashed ddos exploit - api shodan : PSKINdQe1GyxGgecYz2191H2JoS9qvgD
 
 ### HOW INSTALL
-     git clone https://github.com/zadachnik/memcrashed-ddos.git
+     git clone https://github.com/AleksZavg/memcrashed-ddos.git
      cd memcrashed-ddos
      sudo apt update
      sudo apt install python3
