@@ -2,7 +2,7 @@
 #!/usr/bin/env python3
 import sys, os, time, shodan
 from pathlib import Path
-from scapy.all import
+from scapy import *
 from contextlib import contextmanager, redirect_stdout
 
 starttime = time.time()
